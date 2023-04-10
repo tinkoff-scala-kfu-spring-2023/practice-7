@@ -1,0 +1,16 @@
+target
+*.iml
+.idea
+/tmp
+/result*.xml
+/log4j-*.jar
+/*.log*
+qa_marker.mrk
+allure-results
+.metals/
+.bloop/
+.vscode/
+docker.tag
+.allure
+.bsp
+*.env
